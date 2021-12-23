@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Socona.QuantumDictionary (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Socona.QuantumDictionary (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
